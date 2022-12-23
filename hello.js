@@ -29,3 +29,4 @@ var a = document.createElement('a');
 a.href = URL.createObjectURL(blob);
 a.download = 'myMidiFile.mid';
 a.click();
+
